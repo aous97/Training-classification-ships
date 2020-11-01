@@ -1,1 +1,1 @@
-# Training-classification-ships
+# Training classification models for ships
